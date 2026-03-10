@@ -31,7 +31,7 @@ Cơ sở dữ liệu: Microsoft SQL Server.
 
 Thư viện: JDBC Driver (mssql-jdbc-13.2.1.jre11.jar).
 
-4. Hướng dẫn cài đặt
+4. Hướng dẫn cài đặt 
 Bước 1: Chạy file QuanLyChat.sql trong SQL Server để tạo cấu trúc bảng và dữ liệu mẫu.
 
 Bước 2: Mở project bằng Apache NetBeans.
